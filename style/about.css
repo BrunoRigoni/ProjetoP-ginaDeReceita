@@ -1,0 +1,15 @@
+.about {
+    margin: 4px ;
+    gap: 4px;
+    justify-content: center;
+}
+
+.description {
+    margin: 4px 0;
+
+
+}
+
+h1 {
+    padding-bottom: 12px;
+}
